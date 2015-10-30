@@ -59,7 +59,6 @@ All the react-d3 charts are available in this JSFiddle fork under the global `rd
 
 * Chat: [![Join the chat at https://gitter.im/esbullington/react-d3](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/esbullington/react-d3?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 * Issues: [react-d3 issues](https://github.com/esbullington/react-d3/issues) on Github
-* Support: [react-d3 Google Groups email list](https://groups.google.com/forum/#!forum/react-d3)
 
 ### Background
 Although there have been [several](http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/) [different](http://bl.ocks.org/milroc/d22bbf92231876505e5d) approaches proposed for combining the power of d3 with the flexibility and modularity of ReactJS, the approach I'm using here was inspired by [this blog post](http://10consulting.com/2014/02/19/d3-plus-reactjs-for-charting/) by Ben Smith of [Binary Consulting](http://10consulting.com/).
@@ -74,14 +73,6 @@ With this approach, React itself is responsible for generating the SVG markup.  
     - slopegraph
     - table
   * Tooltips
-
-### Available for work
-Consider me for your next contract job.  I do:
-* custom d3 and/or React visualizations.
-* React, AngularJS, or Backbone frontend work.
-* backend work in Python(Flask, Django), Lua(w/Nginx), or Node.js, particularly REST APIs.
-
-More at: [ericbullington.com](https://ericbullington.com)
 
 ### License
 MIT
