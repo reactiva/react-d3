@@ -272,11 +272,11 @@ var Demos = React.createClass({
 `<AreaChart
   data={areaData}
   width="100%"
-  height={300}
+  height={400}
   viewBoxObject={
     x: 0,
     y: 0,
-    heigth: 400,
+    height: 400,
     width: 500
   }
   xAxisTickInterval={{unit: 'year', interval: 2}}
